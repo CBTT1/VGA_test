@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Mar 14 14:22:43 2022
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : VGAtest
+Top-level Entity Name : lcd_rgb_colorbar
+Family : Cyclone IV E
+Total logic elements : 216
+    Total combinational functions : 215
+    Dedicated logic registers : 24
+Total registers : 24
+Total pins : 24
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

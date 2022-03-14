@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Mar 14 14:22:47 2022
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : VGAtest
+Top-level Entity Name : lcd_rgb_colorbar
+Family : Cyclone IV E
+Device : EP4CE40U19A7
+Timing Models : Final
+Total logic elements : 217 / 39,600 ( < 1 % )
+    Total combinational functions : 216 / 39,600 ( < 1 % )
+    Dedicated logic registers : 24 / 39,600 ( < 1 % )
+Total registers : 24
+Total pins : 24 / 329 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,161,216 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 232 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Code/Verilog/VGA_test/simulation/modelsim
+vlcd_display
+Z1 !s110 1647239387
+!i10b 1
+!s100 hkIzCbNSK80I6oGWBe56L2
+I2Z_amlhF[@7_0lI>Og:di1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1647238943
+8D:/Code/Verilog/VGA_test/lcd_display.v
+FD:/Code/Verilog/VGA_test/lcd_display.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1647239387.000000
+!s107 D:/Code/Verilog/VGA_test/lcd_display.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Code/Verilog/VGA_test|D:/Code/Verilog/VGA_test/lcd_display.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/Code/Verilog/VGA_test
+Z7 tCvgOpt 0
+vlcd_driver
+R1
+!i10b 1
+!s100 98@PeIIez8<RXU2_gL@bZ3
+I2hYBZYNEWQmP0WdPODdIQ3
+R2
+R0
+w1647236551
+8D:/Code/Verilog/VGA_test/lcd_driver.v
+FD:/Code/Verilog/VGA_test/lcd_driver.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Code/Verilog/VGA_test/lcd_driver.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Code/Verilog/VGA_test|D:/Code/Verilog/VGA_test/lcd_driver.v|
+!i113 1
+R5
+R6
+R7
+vlcd_pll
+R1
+!i10b 1
+!s100 nWC6ReF[EgF:;k0d7`aAd2
+If<a:lHfRaO<SX:<^z@2iQ3
+R2
+R0
+w1647235872
+8D:/Code/Verilog/VGA_test/lcd_pll.v
+FD:/Code/Verilog/VGA_test/lcd_pll.v
+L0 39
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Code/Verilog/VGA_test/lcd_pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Code/Verilog/VGA_test|D:/Code/Verilog/VGA_test/lcd_pll.v|
+!i113 1
+R5
+R6
+R7
+vlcd_pll_altpll
+R1
+!i10b 1
+!s100 0;X7KCD^5?AMaJ@72`C1<1
+I[7l<^nRb9f5<kO1nbUM1`2
+R2
+R0
+w1647235900
+8D:/Code/Verilog/VGA_test/db/lcd_pll_altpll.v
+FD:/Code/Verilog/VGA_test/db/lcd_pll_altpll.v
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Code/Verilog/VGA_test/db/lcd_pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Code/Verilog/VGA_test/db|D:/Code/Verilog/VGA_test/db/lcd_pll_altpll.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/Code/Verilog/VGA_test/db
+R7
+vlcd_rgb_colorbar
+!s110 1647239386
+!i10b 1
+!s100 <=G:Ne_W9;G]h@dSDC9oj2
+IhU6Gz=VV:@?fF41gn?nS50
+R2
+R0
+w1647235893
+8D:/Code/Verilog/VGA_test/lcd_rgb_colorbar.v
+FD:/Code/Verilog/VGA_test/lcd_rgb_colorbar.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1647239386.000000
+!s107 D:/Code/Verilog/VGA_test/lcd_rgb_colorbar.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Code/Verilog/VGA_test|D:/Code/Verilog/VGA_test/lcd_rgb_colorbar.v|
+!i113 1
+R5
+R6
+R7
